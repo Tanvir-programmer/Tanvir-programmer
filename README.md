@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm MD TANVIR RAHMAN</h1>
-<h3 align="center">Hi there! I'm Tanvir Rahman. I'm a passionate MERN Stack Developer with a strong focus on building clean and scalable web applications. I enjoy learning new technologies and sharing knowledge with others.</h3>
+
+<h2>About Me</h2>
+
+<h4 align="center"> I'm a passionate MERN Stack Developer with a strong focus on building clean and scalable web applications.
+  I enjoy learning new technologies and sharing knowledge with others.</h4>
 
 - 🌱 I’m currently learning **Express, MongoDB**
 
