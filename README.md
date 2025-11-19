@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm MD TANVIR RAHMAN</h1>
+<h1 align="center">Hi 👋, I'm Md Tanvir Rahman</h1>
 
 <h2>About Me</h2>
 
