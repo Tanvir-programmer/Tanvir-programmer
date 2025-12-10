@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Md Tanvir Rahman</h1>
 
-  <p align="center">💻 MERN Stack Developer</p>
+  <p align="center">💻 Front-end Developer | MERN Stack Developer</p>
 
 
 <h2>🧠 About Me</h2>
