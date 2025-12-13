@@ -10,7 +10,7 @@
   I enjoy learning new technologies and sharing knowledge with others.</p>
 
 - 🌱 I’m currently learning **Express, MongoDB**
-- 💻 My Portfolio - https://tanvirs-personal-portfolio.netlify.app/
+- 💻 My Portfolio - https://tanvir1-portfolio.netlify.app
 - 📫 How to reach me **tanvir.webprogrammer@gmail.com**
 
 
