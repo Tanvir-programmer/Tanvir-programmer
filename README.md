@@ -7,7 +7,7 @@
 <h2>🧠 About Me</h2>
 
 <p align="center"> I'm a passionate MERN Stack Developer with a strong focus on building clean and scalable web applications.
-  I enjoy learning new technologies and sharing knowledge with others.</p>
+  I enjoy learning new technologies and sharing knowledge with others.Now I am exploring Next js and typescript</p>
 
 - 🌱 I’m currently learning **Express, MongoDB**
 - 💻 My Portfolio - https://tanvir1-portfolio.netlify.app
