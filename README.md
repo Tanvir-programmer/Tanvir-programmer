@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Frontend%20Developer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/-MERN%20Stack%20Developer-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Next.js%20Enthusiast-black?style=flat-square" />
+  
 </p>
 
 ---
